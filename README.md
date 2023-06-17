@@ -1,5 +1,5 @@
 # Launch Image
-![php_admin](https://github.com/HyeonHoo/C_RacingGame/assets/69030306/ab169223-6e36-43a1-99c9-1efc410329d9)
+![php_main](https://github.com/HyeonHoo/C_RacingGame/assets/69030306/5aaa1dff-2cfe-40fc-9ac1-835f6d3c21c6)
 
 ![php_admin](https://github.com/HyeonHoo/PHP_ShopingMall/assets/69030306/bf5ffa92-60eb-414c-b9a5-a953848cbeff)
 
